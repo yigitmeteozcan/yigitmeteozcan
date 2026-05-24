@@ -1,2 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2400&pause=800&color=58A6FF&width=850&lines=Scouting+cool+startups+before+everyone+else;Building+AI+workflows+for+VC+research;Turning+Deep+Research+into+dealflow;Less+generic+startup+lists%2C+more+hidden+gems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=900&color=58A6FF&width=700&lines=Scouting+cool+startups;Finding+hidden+startup+signals;Building+VC+scouting+tools;Turning+Deep+Research+into+dealflow)](https://git.io/typing-svg)
+
 ![Profile views](https://komarev.com/ghpvc/?username=yigitmeteozcan&label=Profile%20views&color=blueviolet&style=flat)
