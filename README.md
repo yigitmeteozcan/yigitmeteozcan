@@ -30,11 +30,6 @@ Stop restarting your VC scouting brain in every new chat.
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai)
 ![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge)
 
-## GitHub
-
-![Mete's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitmeteozcan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitmeteozcan&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yigitmeteozcan&label=Profile%20views&color=blueviolet&style=flat)
 ```
