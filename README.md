@@ -5,4 +5,3 @@
   />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=yigitmeteozcan&label=Profile%20views&color=blueviolet&style=flat)
